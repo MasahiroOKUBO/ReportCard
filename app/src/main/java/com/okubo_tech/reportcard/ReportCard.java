@@ -2,6 +2,8 @@ package com.okubo_tech.reportcard;
 
 /**
  * Created by okubo on 2016/11/19.
+ *
+ * Report Card Class.
  */
 
 public class ReportCard {
@@ -32,7 +34,7 @@ public class ReportCard {
     private static final int GRADE_C = 50;
 
     /*
-    * Create a new ReportCard object.
+    * Constructor. Create a new ReportCard object.
     *
     * @param Name is the name of the Student (e.g. MasahiroOKUBO)
     * @param Class is School grade and Class of Student (e.g. 1-A, 2-B)
@@ -66,7 +68,6 @@ public class ReportCard {
     public String getmStudentName() {
         return mStudentName;
     }
-
 
     public String getmStudentClass() {
         return mStudentClass;
