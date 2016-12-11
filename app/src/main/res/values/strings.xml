@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ReportCard</string>
+    <string name="mathematics">Mathematics</string>
+    <string name="language">Language</string>
+    <string name="civics">Civics</string>
+    <string name="science">Science</string>
+</resources>
